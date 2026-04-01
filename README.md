@@ -1,4 +1,4 @@
-Markdown# 🧠 Tweet Emotion Detector
+🧠 Tweet Emotion Detector
 
 An end-to-end Natural Language Processing (NLP) application that classifies the emotional subtext of short English text into six categories: **Joy, Sadness, Anger, Fear, Love, and Surprise.**
 
