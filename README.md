@@ -50,5 +50,7 @@ The core classifier is a **Linear Support Vector Classifier (LinearSVC)**.
 
 1. **Install Dependencies:**
    pip install -r requirements.txt
+   
 Train the Model: python train_model.py
+
 Launch the Web App: streamlit run app.py
